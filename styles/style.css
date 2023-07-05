@@ -1,5 +1,10 @@
 h3{
-    background-color: beige;
+   
     color: red;
     text-align: center;
+}
+div{
+    height: 500px;
+    background-image: url('../images/top-banner.png');
+    background-repeat: no-repeat;
 }
